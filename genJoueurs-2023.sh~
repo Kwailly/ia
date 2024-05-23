@@ -1,0 +1,39 @@
+#! /bin/bash 
+
+./joueurs-2022/1_avalens.exe       avalens &
+sleep 1
+
+
+2022_aarise.exe
+2022_abtal.exe
+2022_abtalV2.exe
+2022_atom.exe
+2022_avalens.exe
+2022_ekip.exe
+2022_evalam.exe
+2022_javak.exe
+2022_javakV2.exe
+2022_joyAvalam.exe
+2022_kyra.exe
+2022_lana.exe
+2022_lanaV2.exe
+2022_makabot.exe
+2022_ranval.exe
+2022_rhoades.exe
+2022_suuu.exe
+2023_atchoum.exe
+2023_avalacadabra.exe
+2023_avalajeanperrin.exe
+2023_avalamentable.exe
+2023_avalamoi.exe
+2023_avalattaque.exe
+2023_avalbytes.exe
+2023_avalenciennes.exe
+2023_avaletout.exe
+2023_avaleurs.exe
+2023_avalfish.exe
+2023_avalla.exe
+2023_avalum.exe
+2023_avatar.exe
+2023_malmaisvole.exe
+2023_null.exe
